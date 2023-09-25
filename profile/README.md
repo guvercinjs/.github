@@ -2,10 +2,6 @@
   <img src="https://github.com/guvercinjs/.github/blob/main/guvercin.svg" width="200">
 </p>
 
-<h1 align="center">
-Guvercin
-</h1>
+# Guvercin
 
-<p align="center">
-Guvercin is a very simple logger library for Node.js.
-<p>
+Guvercin (Turkish word for "dove", pronounced `/ɡyverˈdʒin/`) is a very simple logger library for Node.js.
