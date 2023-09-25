@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../guvercin.svg" width="200">
+  <img src="https://github.com/guvercinjs/.github/blob/main/guvercin.svg" width="200">
 </p>
 
 <h1 align="center">
